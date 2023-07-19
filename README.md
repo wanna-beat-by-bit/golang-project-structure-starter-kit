@@ -30,4 +30,6 @@
 имеется две папки, которые отражают ифнормации об актуальности каждого типа проектов, зайдя в эти
 папки, вы можете ознакомиться с данной информацией.
 
+![image](https://github.com/wanna-beat-by-bit/golang-project-structure-starter-kit/assets/71206074/0fca539b-c140-4265-b203-cab862e5eeaf)
+
 
