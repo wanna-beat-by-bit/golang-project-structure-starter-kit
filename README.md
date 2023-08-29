@@ -71,7 +71,8 @@
 имеется две папки, которые отражают информацию об актуальности каждого типа проектов, зайдя в эти
 папки, вы можете ознакомиться с данной информацией.
 
-![image](https://github.com/wanna-beat-by-bit/golang-project-structure-starter-kit/assets/71206074/8c44dd7b-5148-4e74-b5de-2e9a0165bc52)
+![image](https://github.com/wanna-beat-by-bit/golang-project-structure-starter-kit/assets/71206074/08b9b8b5-d587-43dd-823f-d5e77eaf3216)
+
 
 
 
